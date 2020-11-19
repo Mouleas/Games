@@ -93,7 +93,7 @@ def vertical_line(col,player):
 
     pygame.draw.line(screen,color,(posX,15),(posX,HEIGHT-15),15)
 
-def horizontal_win(row,player):
+def horizontal_line(row,player):
     posY=row*200+100
     if player==1:
         color=CIRCLE_COLOR
