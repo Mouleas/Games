@@ -1,3 +1,4 @@
+![Github icon](Downloads/Welcome.png)
 Hi folks this repository contains  few mini_projects.PYTHON is the main language used in these codes.
 
 # NOTE:These mini_projects are based on python version 3.9.
