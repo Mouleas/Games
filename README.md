@@ -1,6 +1,6 @@
 # Games
 
-# Pygame and turtle are the python lib  are used in these codes
+ *Pygame and turtle are the python lib  are used in these codes*
 
 Hi folks this repository contains few mini_projects.PYTHON is the main language used in these codes.
 
