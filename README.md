@@ -1,6 +1,6 @@
 # Games
 
-use these commanads in the command prompt  to download packages
+use these commands in the command prompt  to download packages
 ```python
 pip install pygame
 pip install PythonTurtle
