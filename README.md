@@ -29,6 +29,8 @@ This game is based on my own concept
 Recreated Copter game which I have played in my childhood.
 This game is created by using PyGame module in python version 3.9
 
+Copter is the game that the current generation of youngsters know as Flappy Bird. Avoid the obstacles and get as far as possible. Hard but addictive!
+
 ![Screenshot (130)](https://user-images.githubusercontent.com/74062509/126738550-6f996f88-6601-4c05-9f06-0153c218c130.png)
 
 
