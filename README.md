@@ -31,9 +31,6 @@ This game is created by using PyGame module in python version 3.9
 
 Copter is the game that the current generation of youngsters know as Flappy Bird. Avoid the obstacles and get as far as possible. Hard but addictive!
 
-![Screenshot (130)](https://user-images.githubusercontent.com/74062509/126738550-6f996f88-6601-4c05-9f06-0153c218c130.png)
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](gitpod.io/#https://github.com/M0u1ea5/Games/blob/main/Copter/copter.py)
-
+![Screenshot (130)](https://user-images.githubusercontent.com/74062509/126738550-6f996f88-6601-4c05-9f06-0153c218c130.png) 
 
 ##### HAPPY_CODING😊
